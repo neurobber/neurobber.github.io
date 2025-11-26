@@ -7,15 +7,15 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Neurobbery
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'Miscellaneous thoughts to rob your neurons.'
+url:              
 baseurl:          ""
 
 author:
   name:           'Neurobber'
-  url:            https://twitter.com/mdo
+  url:            
 
 paginate:         5
 
@@ -23,7 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           
 
 # Plogins
 plugins:
