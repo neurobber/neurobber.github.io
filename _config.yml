@@ -27,3 +27,5 @@ github:
 
 # Plogins
 plugins:  [jekyll-paginate]
+
+gems: [jekyll-paginate]
