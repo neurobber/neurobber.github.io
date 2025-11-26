@@ -175,6 +175,14 @@ a.sidebar-nav-item:focus {
  * within blog posts. To use, add the class of your choosing to the `body`.
  */
 
+.theme-my-color .sidebar{
+  background-color: #32174D;
+}
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover {
+  color: #32174D;
+}
+
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
 /* Red */
