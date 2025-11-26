@@ -26,5 +26,4 @@ github:
   repo:           
 
 # Plogins
-plugins:
-  - jekyll-paginate
+plugins:  [jekyll-paginate]
