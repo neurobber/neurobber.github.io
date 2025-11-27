@@ -31,3 +31,4 @@ plugins:  [jekyll-paginate]
 gems: [jekyll-paginate]
 
 timezone: UTC
+future: true
